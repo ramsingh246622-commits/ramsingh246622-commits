@@ -1,23 +1,16 @@
 # ⚡ WELCOME TO MY CYBER WEB3 SPACE ⚡
 
-<p align="center">
-  <img src="https://vercel.app" alt="Cyber Banner" />
-</p>
-
 ## 🚀 About Me
 An ambitious **Web3 & Smart Contract Developer** specializing in core blockchain setups, MetaMask Snaps configuration, and decentralized security hooks. I build robust scripts to fix permission barriers and optimize runtime performance.
 
 ---
 
 ## 🛠️ Tech Stack & Skills
-
-<p align="left">
-  <img src="https://shields.io" alt="TS" />
-  <img src="https://shields.io" alt="JS" />
-  <img src="https://shields.io" alt="Sol" />
-  <img src="https://shields.io" alt="Node" />
-  <img src="https://shields.io" alt="Git" />
-</p>
+* 🔷 **TypeScript** (Core Architecture)
+* 🟨 **JavaScript** (Scripts & Logic)
+* 🪙 **Solidity** (Smart Contracts)
+* 🟢 **Node.js** (Backend Environment)
+* 🧡 **Git & GitHub** (Version Control)
 
 ---
 
@@ -33,23 +26,5 @@ An ambitious **Web3 & Smart Contract Developer** specializing in core blockchain
 
 ---
 
-## 📊 Live GitHub Analytics & Activity
-
-<p align="center">
-  <img src="https://vercel.app" alt="Lokesh's GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Langs" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="100%" />
-</p>
-
----
-
 ## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://x.com" target="_blank">
-    <img src="https://shields.io" alt="X" />
-  </a>
-</p>
+* 🐦 **X (Twitter)**: [Follow Updates](https://x.com)
