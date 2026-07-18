@@ -1,29 +1,55 @@
-# 👋 Hi, I'm Lokesh Kumar | Web3 & Smart Contract Developer
+# ⚡ WELCOME TO MY CYBER WEB3 SPACE ⚡
 
-### 🚀 About Me
-An ambitious Web3 Developer specializing in core blockchain setups, MetaMask Snaps configuration, and smart contract security hooks. I build robust scripts to fix decentralization barriers and optimize runtime performance.
+<p align="center">
+  <img src="https://vercel.app" alt="Cyber Banner" />
+</p>
 
----
-
-### 🛠️ Tech Stack & Skills
-* **Languages**: TypeScript, JavaScript, HTML5, CSS3, Solidity
-* **Web3 Ecosystem**: MetaMask Snaps API, Ethers.js, JSON-RPC Providers
-* **Tools & Platforms**: Node.js, Git, GitHub Actions, VS Code
+## 🚀 About Me
+An ambitious **Web3 & Smart Contract Developer** specializing in core blockchain setups, MetaMask Snaps configuration, and decentralized security hooks. I build robust scripts to fix permission barriers and optimize runtime performance.
 
 ---
 
-### 🏆 Featured Hackathon Projects
+## 🛠️ Tech Stack & Skills
 
-#### 1. 🦊 [MetaMask Snap Permissions Fix](https://github.com)
+<p align="left">
+  <img src="https://shields.io" alt="TS" />
+  <img src="https://shields.io" alt="JS" />
+  <img src="https://shields.io" alt="Sol" />
+  <img src="https://shields.io" alt="Node" />
+  <img src="https://shields.io" alt="Git" />
+</p>
+
+---
+
+## 🏆 Featured Hackathon Projects
+
+### 🦊 [MetaMask Snap Permissions Fix](https://github.com)
 * **Core Challenge**: Resolved runtime restriction gaps for ENS `contenthash` within `permissions-kernel-snap`.
 * **Impact**: Enabled seamless decentralization lookups and streamlined development pipelines.
 
-#### 2. 🛡️ [Web3 Anti-Phishing Guard](https://github.com)
+### 🛡️ [Web3 Anti-Phishing Guard](https://github.com)
 * **Core Challenge**: Built a modular TypeScript gatekeeper evaluating live dApp domains against malicious smart contract addresses.
 * **Impact**: Mitigates active user wallet drain risks during decentralized connection triggers.
 
 ---
 
-### 📊 GitHub Analytics
-![Lokesh's GitHub Stats](https://vercel.app)
-![Top Langs](https://vercel.app)
+## 📊 Live GitHub Analytics & Activity
+
+<p align="center">
+  <img src="https://vercel.app" alt="Lokesh's GitHub Stats" width="48%" />
+  <img src="https://vercel.app" alt="Top Langs" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://herokuapp.com" alt="GitHub Streak" width="100%" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://x.com" target="_blank">
+    <img src="https://shields.io" alt="X" />
+  </a>
+</p>
